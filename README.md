@@ -1,16 +1,10 @@
-# straight_path_tracker
+# Straight Path Tracker
 
-A new Flutter project.
+Store coordinates which are on  straight line without deviation.
 
-## Getting Started
+## App Demo Screenshots
 
-This project is a starting point for a Flutter application.
+![4](https://github.com/harshad-salunke/straight_path_tracker/assets/87861834/542f4951-6674-40ec-94e6-a5611e29fe3d)
 
-A few resources to get you started if this is your first Flutter project:
+![5](https://github.com/harshad-salunke/straight_path_tracker/assets/87861834/87865d3e-93ab-4c66-972d-4d6a398ccc32)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
